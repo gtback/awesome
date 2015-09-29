@@ -9,3 +9,20 @@ This started out of my desire to collect into one place the various bookmarks I 
 Enjoy!
 
 (actual content coming soon, I hope!)
+
+## Videos
+
+### Simple Made Easy - Rich Hickey
+[Video](http://www.infoq.com/presentations/Simple-Made-Easy)
+
+### Future of Programming - Bret Victor
+[Video](http://vimeo.com/71278954) - [Notes](http://worrydream.com/dbx/)
+
+### Boundaries - Gary Bernhardt
+[Video](https://www.destroyallsoftware.com/talks/boundaries)
+
+### The Birth & Death of JavaScript - Gary Bernhardt
+[Video](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
+
+### Wat - Gary Bernhardt
+[Video](https://www.destroyallsoftware.com/talks/wat)
